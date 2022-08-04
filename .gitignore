@@ -1,7 +1,3 @@
-images/barcodes/*
-images/persons/*
-images/docs/*
-images/labels/*
 cache/*
 .DS_Store
 ._.*
